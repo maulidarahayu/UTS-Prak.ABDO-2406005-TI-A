@@ -1,0 +1,286 @@
+<mxfile host="Electron">
+  <diagram name="Skenario" id="vkXXPOqRrV159CYEMI7K">
+    <mxGraphModel dx="825" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-2" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;fontFamily=Times New Roman;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="940" width="470" x="70" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-3" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="30" width="470" as="geometry" />
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-4" parent="lHfjurE7tnVVm-HdRNOE-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=1;align=left;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Nama Use case" vertex="1">
+          <mxGeometry height="30" width="235" as="geometry">
+            <mxRectangle height="30" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-5" parent="lHfjurE7tnVVm-HdRNOE-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Lihat Statuus Pesanan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="235" x="235" as="geometry">
+            <mxRectangle height="30" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-6" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="25" width="470" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-7" parent="lHfjurE7tnVVm-HdRNOE-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=1;align=left;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Aktor" vertex="1">
+          <mxGeometry height="25" width="235" as="geometry">
+            <mxRectangle height="25" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-8" parent="lHfjurE7tnVVm-HdRNOE-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Penjual" vertex="1">
+          <mxGeometry height="25" width="235" x="235" as="geometry">
+            <mxRectangle height="25" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-9" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="55" width="470" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-10" parent="lHfjurE7tnVVm-HdRNOE-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=1;align=left;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Tujuan" vertex="1">
+          <mxGeometry height="55" width="235" as="geometry">
+            <mxRectangle height="55" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-11" parent="lHfjurE7tnVVm-HdRNOE-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="&amp;nbsp;Pelanggan dapat membatalkan pesanan yang belum diproses, sehingga status pesanan berubah menjadi Dibatalkan" vertex="1">
+          <mxGeometry height="55" width="235" x="235" as="geometry">
+            <mxRectangle height="55" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-12" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="45" width="470" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-13" parent="lHfjurE7tnVVm-HdRNOE-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=1;align=left;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Deskripsi" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-14" parent="lHfjurE7tnVVm-HdRNOE-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="Status pesanan adalah Dipesan,&lt;br/&gt;Diproses, Selesai, dan Dibatalkan." vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-15" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="45" width="470" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-16" parent="lHfjurE7tnVVm-HdRNOE-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=1;align=left;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Kegiatan" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-17" parent="lHfjurE7tnVVm-HdRNOE-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Respon Sistem&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-18" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="45" width="470" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-19" parent="lHfjurE7tnVVm-HdRNOE-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;rowspan=1;colspan=2;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=1" value="Skenario Normal" vertex="1">
+          <mxGeometry height="45" width="470" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-20" parent="lHfjurE7tnVVm-HdRNOE-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1" visible="0">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7RzuGrp_B01g06shQuw-4" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="s7RzuGrp_B01g06shQuw-5" parent="s7RzuGrp_B01g06shQuw-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" value="1. Melihat Statuus Pesanan" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7RzuGrp_B01g06shQuw-6" parent="s7RzuGrp_B01g06shQuw-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-4" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-5" parent="EpCZvgrWQLU_0F2m-fBM-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-6" parent="EpCZvgrWQLU_0F2m-fBM-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="2. Apakah Pesanan sudah di buat pesanan" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-7" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-8" parent="EpCZvgrWQLU_0F2m-fBM-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" value="3. Pesanan Sudah di buat" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-9" parent="EpCZvgrWQLU_0F2m-fBM-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-50" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-51" parent="EpCZvgrWQLU_0F2m-fBM-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-52" parent="EpCZvgrWQLU_0F2m-fBM-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="4. Apakah Pesanan Sudah di proses" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-56" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-57" parent="EpCZvgrWQLU_0F2m-fBM-56" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" value="5. Pesanan akan diproses" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-58" parent="EpCZvgrWQLU_0F2m-fBM-56" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-59" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-60" parent="EpCZvgrWQLU_0F2m-fBM-59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-61" parent="EpCZvgrWQLU_0F2m-fBM-59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="6. Pesaanan sedang diproses" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-13" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-14" parent="EpCZvgrWQLU_0F2m-fBM-13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" value="7. Pesanan selai diproses" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-15" parent="EpCZvgrWQLU_0F2m-fBM-13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-10" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-11" parent="EpCZvgrWQLU_0F2m-fBM-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" value="" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-12" parent="EpCZvgrWQLU_0F2m-fBM-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="&lt;div&gt;8. Pesanan Selesai&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-53" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-54" parent="EpCZvgrWQLU_0F2m-fBM-53" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=center;rowspan=1;colspan=2;" value="&lt;b&gt;Skenario Alternative&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="470" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-55" parent="EpCZvgrWQLU_0F2m-fBM-53" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="" vertex="1" visible="0">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-22" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-23" parent="EpCZvgrWQLU_0F2m-fBM-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" value="9. Pesana Belum dibuat (lanjtkan langkah 2)" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-24" parent="EpCZvgrWQLU_0F2m-fBM-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-19" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-20" parent="EpCZvgrWQLU_0F2m-fBM-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" value="" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-21" parent="EpCZvgrWQLU_0F2m-fBM-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="10. Buat Pesanan" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-25" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-26" parent="EpCZvgrWQLU_0F2m-fBM-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" value="11. Pelanggan membatalkan pesanan (lanjutan langkah 4)" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-27" parent="EpCZvgrWQLU_0F2m-fBM-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-28" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=1;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;direction=north;anchorPointDirection=0;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="45" width="470" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-29" parent="EpCZvgrWQLU_0F2m-fBM-28" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=center;" value="" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-30" parent="EpCZvgrWQLU_0F2m-fBM-28" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;" value="12. Pelanggan membatalkan pesanan" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-21" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="45" width="470" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-22" parent="lHfjurE7tnVVm-HdRNOE-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" value="13. Pesanan dibatalkan" vertex="1">
+          <mxGeometry height="45" width="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHfjurE7tnVVm-HdRNOE-23" parent="lHfjurE7tnVVm-HdRNOE-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="45" width="235" x="235" as="geometry">
+            <mxRectangle height="45" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-16" parent="lHfjurE7tnVVm-HdRNOE-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Times New Roman;verticalAlign=middle;" vertex="1">
+          <mxGeometry height="65" width="470" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-17" parent="EpCZvgrWQLU_0F2m-fBM-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=0;align=left;" value="&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Skenario Akhir&lt;/b&gt;" vertex="1">
+          <mxGeometry height="65" width="235" as="geometry">
+            <mxRectangle height="65" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpCZvgrWQLU_0F2m-fBM-18" parent="EpCZvgrWQLU_0F2m-fBM-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;align=left;fontStyle=0" value="Pesanan telah buat, diproses serta selesai, namun ila pelanggan ingin membatalkan, pelanggan harus membatalkan sebelum pesanan di proses" vertex="1">
+          <mxGeometry height="65" width="235" x="235" as="geometry">
+            <mxRectangle height="65" width="235" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
